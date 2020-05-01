@@ -1,1 +1,1 @@
-# spring-security-http-basic-jdbc
+# spring security http form login with jdbc auth
